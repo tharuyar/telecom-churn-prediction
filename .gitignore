@@ -1,0 +1,6 @@
+venv/
+*.so
+*.pyc
+*.pkl
+*.csv
+*.log
